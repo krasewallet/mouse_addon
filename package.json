@@ -1,7 +1,7 @@
 {
-  "name": "function_arguments",
+  "name": "mouse_addon",
   "version": "0.0.0",
-  "description": "Node.js Addons Example #2",
+  "description": "Node.js mouse simulate addon",
   "main": "addon.js",
   "dependencies": {
     "bindings": "~1.2.1",
